@@ -43,7 +43,7 @@ Power BI for data visualization
 Excel for data cleaning and preparation
 
 📁 Files Included
-Dashboard screenshots for all tabs
+Dashboard screenshots for all tabs - https://github.com/Aquib18/Ola-Dashboard/blob/main/Ola-%20Revenue.png
 
 Summary visuals and interactive reports
 
